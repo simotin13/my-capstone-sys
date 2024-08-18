@@ -1,0 +1,10 @@
+[package]
+name = "my-capstone-sys"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+bindgen = "0.70"
+
+[dependencies]
+cty = "0.2.0"
